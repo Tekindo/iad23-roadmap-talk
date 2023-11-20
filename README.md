@@ -1,4 +1,5 @@
-# iad23-talk
-Buongiorno, in questo repository potete trovare il link al PDF per il talk "Comunicare attraverso la roadmap" tenuto allo https://www.agileday.it/ 2023.
+# Comunicare attraverso la roadmap
+In questo repository potete trovare il PDF delle slide del talk tenuto allo https://www.agileday.it/ 2023. Per vedere le slide e scaricarle [Comunicare_attraverso_la_roadmap.pdf] 
 
-Se volete proporre nuove idee, temi o avete suggerimenti su come migliorare il deck, usate tranquillamente le Discussions o le Issues di Github.
+## Come lasciare un'idea
+Se voleste proporre nuove idee o aveste suggerimenti/feedback usate tranquillamente le Discussions o le Issues di Github.
